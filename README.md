@@ -1,8 +1,10 @@
 # subject_4-2-2_1-1
 
+提出用課題
+4-2-2 API連携実践課題
 1-1. Google ドライブ API
 
-4-2-2 API連携実践課題
+
 # Google Drive Upload Tool (OAuth版)
 
 ##  概要
