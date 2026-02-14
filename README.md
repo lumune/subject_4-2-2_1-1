@@ -1,14 +1,17 @@
 # subject_4-2-2_1-1
 
+1-1. Google ドライブ API
+
+4-2-2 API連携実践課題
 # Google Drive Upload Tool (OAuth版)
 
-## 📌 概要
+##  概要
 PythonからGoogle Driveへファイルをアップロードするツールです。  
 Google Workspaceを使用せず、個人のGoogleアカウントでOAuth認証を行い、Driveへファイルをアップロードできます。
 
 ---
 
-## 🚀 実装した機能
+##  実装した機能
 
 - Google Drive APIを利用したファイルアップロード機能
 - OAuth2.0によるユーザー認証
@@ -17,7 +20,7 @@ Google Workspaceを使用せず、個人のGoogleアカウントでOAuth認証�
 
 ---
 
-## 🛠 使用技術
+##  使用技術
 
 - Python 3.x
 - Google Drive API
@@ -27,7 +30,7 @@ Google Workspaceを使用せず、個人のGoogleアカウントでOAuth認証�
 
 ---
 
-## ⚙ セットアップ方法
+##  セットアップ方法
 
 ### ① 必要ライブラリのインストール
 
